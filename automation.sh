@@ -1,0 +1,9 @@
+web-port.sh
+tls-csp-cname.sh
+permutation.sh
+source-code.sh
+analyticsrelationships.sh
+nuclei.sh
+whatwaff.sh
+dns-subdomain.sh
+sub-subdomain.sh

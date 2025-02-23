@@ -1,0 +1,1 @@
+ffuf -w ~/wd/dicc.txt -u $1/FUZZ -fc 403,501,502,503 -r -H "User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" #-e js,php,bak,txt,asp,aspx,jsp,html,zip,jar,sql,json,old,gz,shtml,log,swp,yaml,yml,config,save,rsa,ppk,tar,xlsx,ppt,pdf
